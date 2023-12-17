@@ -1,0 +1,89 @@
+body{
+    background: url('https://online.masu.edu.ru/aschool/wp-content/uploads/2017/10/wallperz.com-20170723103014.png');
+}
+
+    
+header h1 {
+    font-size: 60px;
+    font-weight: 600;
+    background-image:conic-gradient(
+        #553c9a 0%, #553c9a 33%, #ee4b2b 33%, #ee4b2b 66%, #00c2cb 66%, #00c2cb 99%
+      );
+    color: transparent;
+    background-clip: text;
+    -webkit-background-clip: text;
+    text-align: center;
+}
+
+.test{
+    font-size: 60px;
+    font-weight: 600;
+    background-image:conic-gradient(
+        #553c9a 0%, #553c9a 33%, #ee4b2b 33%, #ee4b2b 66%, #00c2cb 66%, #00c2cb 99%
+      );
+    color: transparent;
+    background-clip: text;
+    -webkit-background-clip: text;
+    text-align: center;
+}
+
+.sphers{
+    font-size: 60px;
+    font-weight: 600;
+    color:aqua
+       
+      
+}
+
+.button{
+    font-size: 60px;
+    font-weight: 600;
+    margin: 0 auto;
+   display: block;
+
+   border-radius: 10px;
+    color: white;
+    transition: .2s linear;
+    background: #0B63F6;
+}
+button:hover {
+    box-shadow: 0 0 0 2px white, 0 0 0 4px #3C82F8;
+}
+
+header h3 {
+    font-size: 70px;
+    font-weight: 100;
+    background-image:linear-gradient(to left, #553c9a, #b393d3);
+    color: transparent;
+    background-clip: text;
+    -webkit-background-clip: text;
+}
+
+.card {
+    box-shadow: 0 4px 8px 0 rgba(255, 255, 255, 0.2);
+    transition: 0.3s;
+    width: 200px;
+    height: 200px;
+    border-radius: 8px;
+    text-align: center;
+    margin: 10px;
+    display: inline-block;
+    background: linear-gradient(149deg, rgba(24,187,156,1) 0%, rgba(106,57,175,1) 42%, rgba(187,24,148,1) 72%, rgba(115,53,134,1) 100%);
+  }
+  
+  .card:hover {
+    box-shadow: 0 8px 16px 0 rgba(255, 255, 255, 0.2);
+  }
+  
+  .container {
+    padding: 2px 16px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 100%
+  }
+
+.descriptio{
+  background:#553c9a
+} 
+
